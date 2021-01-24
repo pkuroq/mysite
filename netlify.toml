@@ -1,4 +1,4 @@
 [build]
 publish = "public"
-command = "hugo --theme=ananke --gc --minify"
+command = "hugo --theme=ananke  --buildDrafts --gc --minify"
 
