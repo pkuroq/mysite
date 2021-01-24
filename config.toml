@@ -1,4 +1,4 @@
-baseURL = "nifty-booth-0278e6.netlify.app/"
+baseURL = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
